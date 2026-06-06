@@ -1,5 +1,6 @@
 # EX-NO-8-ADVANCED-ENCRYPTION-STANDARD-ALGORITHM
-
+### NAME : JENISHA TEENA ROSE F
+### REGISTER NUMBER : 2305001010
 
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
@@ -46,6 +47,7 @@ int main() {
 }
 ```
 ## OUTPUT:
+<img width="576" height="315" alt="image" src="https://github.com/user-attachments/assets/9a865382-a9f0-4ccf-843e-79c43850c6e6" />
 
 ## RESULT:
 
